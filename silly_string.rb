@@ -10,7 +10,7 @@ puts "My favorite word is orange"
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
 puts "orange".capitalize  
 puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
-puts "my favorite word is orange".uppercase
+puts "my favorite word is orange".upcase
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 puts "MY FAVORITE WORD IS ORANGE".downcase
 phrase = "IM NOT SHOUTING"
