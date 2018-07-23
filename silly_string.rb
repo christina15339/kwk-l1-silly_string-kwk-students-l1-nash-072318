@@ -12,7 +12,7 @@ puts "orange".capitalize
 puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 puts "my favorite word is orange".uppercase
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
-
+puts "MY FAVORITE WORD IS ORANGE".downcase
 phrase = "IM NOT SHOUTING"
 puts " my favorite word it orange".upcase
 lowercased_phrase = phrase # Put a . after phrase and use a String method.
