@@ -1,6 +1,6 @@
 puts "orange"
 # Challenge 1: Fill this string in with your favorite word
-
+puts "orange"
 your_favorite_word = "orange"
 
 puts "My favorite word is orange"
